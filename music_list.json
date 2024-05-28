@@ -5,21 +5,84 @@
       "title": "Ear Picking | 3D | Sleep Aid",
       "artist": "ASMR",
       "music_url" : "https://lijianfei.com/ASMR/ASMR_1.mp3",
-      "file_name" : "ASMR_1",
+      "file_name" : "ASMR_1"
       },
       {
       "id": 2,
       "title": "Ear message | 30min",
       "artist": "ASMR",
       "music_url" : "https://lijianfei.com/ASMR/ASMR_2.mp3",
-      "file_name" : "ASMR_2",
+      "file_name" : "ASMR_2"
       },
       {
       "id": 3,
       "title": "ASMR Ear Cleaning | 1hour",
       "artist": "ASMR",
       "music_url" : "https://lijianfei.com/ASMR/ASMR_3.mp3",
-      "file_name" : "ASMR_3",
+      "file_name" : "ASMR_3"
+      },
+      {
+      "id": 4,
+      "title": "ASMR Relaxing Sound",
+      "artist": "ASMR",
+      "music_url" : "https://lijianfei.com/ASMR/ASMR_4.mp3",
+      "file_name" : "ASMR_4"
+      },
+      {
+      "id": 5,
+      "title": "ASMR Whispering",
+      "artist": "ASMR",
+      "music_url" : "https://lijianfei.com/ASMR/ASMR_5.mp3",
+      "file_name" : "ASMR_5"
+      },
+      {
+      "id": 6,
+      "title": "ASMR Tapping",
+      "artist": "ASMR",
+      "music_url" : "https://lijianfei.com/ASMR/ASMR_6.mp3",
+      "file_name" : "ASMR_6"
+      },
+      {
+      "id": 7,
+      "title": "ASMR Personal Attention",
+      "artist": "ASMR",
+      "music_url" : "https://lijianfei.com/ASMR/ASMR_7.mp3",
+      "file_name" : "ASMR_7"
+      },
+      {
+      "id": 8,
+      "title": "ASMR Role Play",
+      "artist": "ASMR",
+      "music_url" : "https://lijianfei.com/ASMR/ASMR_8.mp3",
+      "file_name" : "ASMR_8"
+      },
+      {
+      "id": 9,
+      "title": "ASMR Nature Sound",
+      "artist": "ASMR",
+      "music_url" : "https://lijianfei.com/ASMR/ASMR_9.mp3",
+      "file_name" : "ASMR_9"
+      },
+      {
+      "id": 10,
+      "title": "ASMR Binaural Beats",
+      "artist": "ASMR",
+      "music_url" : "https://lijianfei.com/ASMR/ASMR_10.mp3",
+      "file_name" : "ASMR_10"
+      },
+      {
+      "id": 11,
+      "title": "ASMR Soft Spoken",
+      "artist": "ASMR",
+      "music_url" : "https://lijianfei.com/ASMR/ASMR_11.mp3",
+      "file_name" : "ASMR_11"
+      },
+      {
+      "id": 12,
+      "title": "ASMR Gentle Whisper",
+      "artist": "ASMR",
+      "music_url" : "https://lijianfei.com/ASMR/ASMR_12.mp3",
+      "file_name" : "ASMR_12"
       }
   ]
 }
